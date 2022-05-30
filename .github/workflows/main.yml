@@ -28,3 +28,4 @@ jobs:
         protocol: ftps
         local-dir: ./dist/
         log-level: verbose
+        server-dir: thegooble/
